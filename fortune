@@ -1,3 +1,1 @@
-/* Allow the packet buffer size to be overridden by know-it-alls. */
-
-	- comment from drivers/net/ne.c
+Help stamp out and abolish redundancy and repetition.
