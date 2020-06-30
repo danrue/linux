@@ -1,2 +1,9 @@
-Defeat is worse than death because you have to live with defeat.
-		-- Bill Musselman
+There seems to be a bug in the mail routing again. It may be related to the
+recent problem with ditto copier history outbreaks on Linux S/390 and the
+infamous 'pdp-11 memory subsystem' article routing bug that plagued
+comp.os.minix once.
+
+In the meantime can people check that their mailer hasnt spontaneously added
+linux-kernel to their history articles before posting them ?
+
+	- Alan Cox about off topic cross posting on lkml
