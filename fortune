@@ -1,4 +1,3 @@
-Seriously, the way I did this was by using a special /sbin/loader binary
-with debugging hooks that I made ("dd" is your friend: binary editors
-are for wimps).
-	-- Linus Torvalds, in an article on a dnserver
+When a man knows he is to be hanged in a fortnight, it concentrates his
+mind wonderfully.
+		-- Samuel Johnson
