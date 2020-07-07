@@ -1,2 +1,4 @@
-Go ahead... make my day.
-		-- Dirty Harry
+Seriously, the way I did this was by using a special /sbin/loader binary
+with debugging hooks that I made ("dd" is your friend: binary editors
+are for wimps).
+	-- Linus Torvalds, in an article on a dnserver
