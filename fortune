@@ -1,2 +1,4 @@
-He has shown you, o man, what is good.  And what does the Lord ask of you,
-but to do justice, and to love kindness, and to walk humbly before your God?
+<Deek> nopcode: No, it isn't. Win32 lacks the equivalent of fork().
+<Knghtbrd> Deek: windoze is not meant for people who should have access to
+           sharp objects, hence no fork()
+<Knghtbrd> instead, you must rely on spoon()
