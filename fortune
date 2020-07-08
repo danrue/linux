@@ -1,4 +1,1 @@
-#define JFFS2_MAGIC_BITMASK 0x1985
-#define KSAMTIB_CIGAM_2SFFJ 0x5981 /* For detecting wrong-endian fs */
-
-	- from include/linux/jffs2.h
+vi needs to be upgraded to vii
