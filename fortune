@@ -1,2 +1,4 @@
-"Don't fear the pen. When in doubt, draw a pretty picture."
-		-- Baker's Third Law of Design.
+"Guys, if you want a large subtree in /proc - whack yourself over the head
+ until you realize that you want an fs of your own. I'll be more than
+ happy to help with both parts."
+	- Al Viro
