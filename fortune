@@ -1,3 +1,5 @@
-Sigh.  I like to think it's just the Linux people who want to be on
-the "leading edge" so bad they walk right off the precipice.
-	-- Craig E. Groeschel
+indent does _not_ solve the problem of:
+	* buggers who define a function with 42 arguments and body being
+	return (foo == bar) ? TRUE : FALSE;
+
+	- Alexander Viro on coding style
