@@ -1,2 +1,3 @@
-Outside of a dog, a book is man's best friend.  Inside of a dog, it is too
-dark to read.
+"On a normal ascii line, the only safe condition to detect is a 'BREAK'
+- everything else having been assigned functions by Gnu EMACS."
+(By Tarl Neustaedter)
