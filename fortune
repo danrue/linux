@@ -1,1 +1,16 @@
-The only way to amuse some people is to slip and fall on an icy pavement.
+The GPL Is Not Y2K-Compliant! 
+
+BOSTON, MA -- Panic ensued earlier today at GNU Project Headquarters when
+it was discovered that the GNU General Public License is not ready for the
+year 2000. Thankfully, the panic quickly subsided when RMS posted an
+emergency diff file to Usenet that patches the GPL to eliminate the
+problem. 
+
+The non-Y2K compliant material appears on lines 295 and 316 of version 2.0
+of the GPL. Both lines contain the text, "Copyright (C) 19yy ", a classic
+example of unpreparedness for the year 2000. 
+
+Microsoft was quick to respond to the news, saying in a rushed press
+release, "At least our license agreements don't contain any Y2K issues."
+The GNU Project immediately countered Microsoft's statement with a press
+release that said simply, "Whatever". 
