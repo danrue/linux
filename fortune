@@ -1,2 +1,5 @@
-You never know what is enough until you know what is more than enough.
-		-- William Blake
+ * Equivalent code is available from RSA Data Security, Inc.
+ * This code has been tested against that, and is equivalent,
+ * except that you don't need to include two pages of legalese
+ * with every copy.
+		-- public domain MD5 source
