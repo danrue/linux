@@ -1,5 +1,1 @@
-indent does _not_ solve the problem of:
-	* buggers who define a function with 42 arguments and body being
-	return (foo == bar) ? TRUE : FALSE;
-
-	- Alexander Viro on coding style
+Beer & Pretzels -- Breakfast of Champions.
