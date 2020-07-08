@@ -1,2 +1,4 @@
-* knghtbrd can already envision:  "Subject: [INTENT TO PREPARE TO PROPOSE
-   FILING OF BUG REPORT] Typos in the policy document"
+#define JFFS2_MAGIC_BITMASK 0x1985
+#define KSAMTIB_CIGAM_2SFFJ 0x5981 /* For detecting wrong-endian fs */
+
+	- from include/linux/jffs2.h
