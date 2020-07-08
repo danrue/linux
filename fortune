@@ -1,9 +1,21 @@
-"`Right,' said Ford, `I'm going to have a look.'
-He glanced round at the others.
-`Is no one going to say, "No you can't possibly, let me go 
-instead"?'
-They all shook their heads.
-`Oh well.'"
+Brief History Of Linux (#25)
 
-- Ford attempting to be heroic whilst being seiged by 
-Shooty and Bangbang. 
+By the mid-1990's the Linux community was burgeoning as countless geeks
+fled Redmond monopolistic oppression, Armonk cluelessness, and Cupertino
+click-and-drool reality distortion fields. By late 1991 there was an
+informal Linux User Group in Finland, although its primary focus was Linux
+advocacy, not drinking beer and telling Microsoft jokes as most do today. 
+
+Kernel development continued at a steady clip, with more and more people
+joining in and hoping that their patches would be accepted by the
+Benevolent Dictator himself. To have a patch accepted by Linus was like
+winning the Nobel Prize, but to face rejection was like being rejected
+from Clown College. The reputation game certainly sparked some flame wars.
+
+One of the most memorable crisis was over the behavior of the delete and
+backspace keys. A certain faction of hackers wanted the Backspace key to
+actually backspace and the Delete key to actually delete. Linus wasn't too
+keen on the proposed changes; "It Works For Me(tm)" is all he said. Some
+observers now think Linus was pulling rank to get back at the unknown
+hacker who managed to slip a patch by him that replaced the "Kernel panic"
+error with "Kernel panic: Linus probably fscked it all up again". 
