@@ -1,3 +1,10 @@
-Programmers used to batch environments may find it hard to live without
-giant listings; we would find it hard to use them.
-		-- D. M. Ritchie
+> Is there anything else I can contribute?
+
+The latitude and longtitude of the bios writers current position, and
+a ballistic missile.
+
+Please boot 2.2.18pre24 (not pre25) on the machine and send me its DMI strings
+printed at boot time. I'll add it to the 'stupid morons who cant program and
+wouldnt know QA if it hit them on the head with a mallet' list
+
+	- Alan Cox on BIOS bugs
