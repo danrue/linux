@@ -1,2 +1,3 @@
-"Cogito ergo I'm right and you're wrong."
-		-- Blair Houghton
+str->str_pok |= SP_FBM;                     /* deep magic */
+s = (unsigned char*)(str->str_ptr);         /* deeper magic */
+		-- Larry Wall in util.c from the perl source code
